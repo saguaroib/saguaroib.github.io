@@ -1,0 +1,24 @@
+
+body {
+    /*background-color:#FFE;*/
+    /*background: #ffffff url("images/saguaro-smaller.png") no-repeat fixed bottom right;*/
+}
+
+#jumbo {
+    background-image    : url("images/saguaro-wide-clear.png");
+    background-size     : contain;
+    background-repeat   : no-repeat;
+    background-position : center;
+}
+
+/*
+#menu_top a { opacity:0.8; }
+#menu_top {
+    background-image    : url("images/saguaro-clear.png");
+    background-size     : contain;
+    background-repeat   : no-repeat;
+    background-position : center;
+}*/
+
+#menu a  { text-align:left; }
+#menu a i  { margin-right:3px; }
